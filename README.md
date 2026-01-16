@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/0002-add-two-numbers) |
+| [0234-palindrome-linked-list](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/0234-palindrome-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/0002-add-two-numbers) |
+| [0234-palindrome-linked-list](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/0234-palindrome-linked-list) |
 ## String
 |  |
 | ------- |
@@ -21,4 +23,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/0020-valid-parentheses) |
+| [0234-palindrome-linked-list](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/0234-palindrome-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
