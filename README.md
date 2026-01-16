@@ -33,8 +33,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/0682-baseball-game) |
+| [1572-matrix-diagonal-sum](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/1572-matrix-diagonal-sum) |
 ## Simulation
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/0682-baseball-game) |
+## Matrix
+|  |
+| ------- |
+| [1572-matrix-diagonal-sum](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
