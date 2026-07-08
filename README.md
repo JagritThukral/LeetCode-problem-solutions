@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/0485-max-consecutive-ones) |
 | [0682-baseball-game](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/0682-baseball-game) |
 | [1470-shuffle-the-array](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/1470-shuffle-the-array) |
@@ -46,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1572-matrix-diagonal-sum](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/1572-matrix-diagonal-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
