@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/0020-valid-parentheses) |
+| [0232-implement-queue-using-stacks](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/0682-baseball-game) |
 ## Two Pointers
@@ -60,4 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/0219-contains-duplicate-ii) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
