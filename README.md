@@ -23,16 +23,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/0042-trapping-rain-water) |
 | [0232-implement-queue-using-stacks](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/0682-baseball-game) |
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/0234-palindrome-linked-list) |
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/0042-trapping-rain-water) |
 | [0219-contains-duplicate-ii](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/0485-max-consecutive-ones) |
@@ -69,4 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/0232-implement-queue-using-stacks) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
