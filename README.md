@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/0485-max-consecutive-ones) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/0219-contains-duplicate-ii) |
 ## Sliding Window
 |  |
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/0049-group-anagrams) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
