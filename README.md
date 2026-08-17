@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Queue
 |  |
 | ------- |
@@ -93,4 +94,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/0128-longest-consecutive-sequence) |
+## Tree
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+## Binary Tree
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
