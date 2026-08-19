@@ -47,11 +47,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/1470-shuffle-the-array) |
 | [1572-matrix-diagonal-sum](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1929-concatenation-of-array](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/1929-concatenation-of-array) |
+| [2402-meeting-rooms-iii](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/2402-meeting-rooms-iii) |
 ## Simulation
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/1929-concatenation-of-array) |
+| [2402-meeting-rooms-iii](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/2402-meeting-rooms-iii) |
 ## Matrix
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/0219-contains-duplicate-ii) |
+| [2402-meeting-rooms-iii](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/2402-meeting-rooms-iii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/0049-group-anagrams) |
 | [0295-find-median-from-data-stream](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/0295-find-median-from-data-stream) |
+| [2402-meeting-rooms-iii](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/2402-meeting-rooms-iii) |
 ## Union-Find
 |  |
 | ------- |
@@ -110,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [2402-meeting-rooms-iii](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/2402-meeting-rooms-iii) |
 ## Binary Tree
 |  |
 | ------- |
