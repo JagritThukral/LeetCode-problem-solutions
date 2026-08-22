@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/0485-max-consecutive-ones) |
 | [0682-baseball-game](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/0682-baseball-game) |
 | [0875-koko-eating-bananas](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/0875-koko-eating-bananas) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/0410-split-array-largest-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/0042-trapping-rain-water) |
+| [0410-split-array-largest-sum](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/0410-split-array-largest-sum) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/0410-split-array-largest-sum) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0875-koko-eating-bananas](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/0875-koko-eating-bananas) |
 ## Heap (Priority Queue)
@@ -127,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+## Greedy
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
