@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/0485-max-consecutive-ones) |
 | [0682-baseball-game](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/0682-baseball-game) |
+| [0875-koko-eating-bananas](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/0875-koko-eating-bananas) |
 | [1470-shuffle-the-array](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/1470-shuffle-the-array) |
 | [1572-matrix-diagonal-sum](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1929-concatenation-of-array](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/1929-concatenation-of-array) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0875-koko-eating-bananas](https://github.com/JagritThukral/LeetCode-problem-solutions/tree/master/0875-koko-eating-bananas) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
